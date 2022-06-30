@@ -2,7 +2,7 @@ package GITPractise_MainProject;
 
 import org.testng.annotations.Test;
 
-public class TestCase1 {
+public class TestCase3 {
 	
 	@Test
 	public void getTestCase1() 
