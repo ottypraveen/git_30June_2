@@ -25,5 +25,17 @@ public class TestCase1 {
 		System.out.println("This is 9th TestCase of module 1");
 	}
 	
+	@Test
+	public void gettestCase3subSet()
+	{
+		System.out.println("This is 10th TestCase of module 1");
+		System.out.println("This is 11th TestCase of module 1");
+		System.out.println("This is 12th TestCase of module 1");
+		System.out.println("This is 13th TestCase of module 1");
+		System.out.println("This is 14th TestCase of module 1");
+		System.out.println("This is 15th TestCase of module 1");
+		System.out.println("This is 16th TestCase of module 1");
+	}
+	
 
 }
